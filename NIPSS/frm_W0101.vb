@@ -15,6 +15,10 @@ Public Class frm_W0101
     Private Const SQL_TORIKOMI_SHORI_KAISHI As String = "@torikomi_shori_kaishi"             '取込処理開始
     Private Const SQL_TORIKOMI_SHORI_SHURYO As String = "@torikomi_shori_shuryo"             '取込処理終了
 
+
+    '枝分かれ－－
+
+
 #Region "BaseFormのLoad時処理を実装"
 
     ''' <summary>
