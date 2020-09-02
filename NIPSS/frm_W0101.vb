@@ -10,6 +10,9 @@ Imports GrapeCity.Win.MultiRow
 
 Public Class frm_W0101
 
+    'PG修正
+　　
+
     'SQLバインド変数名用定数
     Private Const SQL_TOKUISAKI_CODE As String = "@tokuisaki_code"                           '得意先
     Private Const SQL_TORIKOMI_SHORI_KAISHI As String = "@torikomi_shori_kaishi"             '取込処理開始
